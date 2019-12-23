@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Xiyu</title>
-    <link>https://academia-hugo.netlify.com/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Xiyu</description>
+    <title>Recent &amp; Upcoming Talks on Xiyu Zhai</title>
+    <link>https://www.zhaixiyu.com/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Xiyu Zhai</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.zhaixiyu.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding and Analyzing Qualitative Data</title>
-      <link>https://academia-hugo.netlify.com/talk/coding/</link>
+      <link>https://www.zhaixiyu.com/talk/coding/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/talk/coding/</guid>
+      <guid>https://www.zhaixiyu.com/talk/coding/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>Qualitative Research Summer Intensive</title>
-      <link>https://academia-hugo.netlify.com/talk/qualitative/</link>
+      <link>https://www.zhaixiyu.com/talk/qualitative/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/talk/qualitative/</guid>
+      <guid>https://www.zhaixiyu.com/talk/qualitative/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Synthesizing Qualitative Data</title>
-      <link>https://academia-hugo.netlify.com/talk/synthesizing/</link>
+      <link>https://www.zhaixiyu.com/talk/synthesizing/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/talk/synthesizing/</guid>
+      <guid>https://www.zhaixiyu.com/talk/synthesizing/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
