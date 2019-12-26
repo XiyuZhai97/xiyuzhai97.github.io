@@ -6,36 +6,35 @@
     <description>Recent content in Demo on Xiyu Zhai</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2019 17:39:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.zhaixiyu.com/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://www.zhaixiyu.com/project/artificial-intelligence/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Janaux</title>
+      <link>https://www.zhaixiyu.com/project/janux-simulation-of-autonomous-city/</link>
+      <pubDate>Wed, 25 Dec 2019 17:39:00 +0000</pubDate>
       
-      <guid>https://www.zhaixiyu.com/project/artificial-intelligence/</guid>
-      <description></description>
+      <guid>https://www.zhaixiyu.com/project/janux-simulation-of-autonomous-city/</guid>
+      <description>&lt;p&gt;• Develop a framework to design and simulate a transportation system or a city with only autonomous vehicles&lt;/p&gt;
+&lt;p&gt;• Developed a database system to collect and manage cities’ transportation network data from Open Street Map&lt;/p&gt;
+&lt;p&gt;• Designed the control methods inside transportation models to compare the efficiency of traffic in autonomous city and regular city&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://www.zhaixiyu.com/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Robotics Platform for Traffic Simulation</title>
+      <link>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.zhaixiyu.com/project/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://www.zhaixiyu.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.zhaixiyu.com/project/external-project/</guid>
-      <description></description>
+      <guid>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</guid>
+      <description>&lt;p&gt;• Design and build a reliable open-source physical robotic platform for multi-agent learning and control research at an acceptable cost.&lt;/p&gt;
+&lt;p&gt;• Designed and built (with 3D printer) two kinds of mini-robots based on Arduino-like MCU, and NVIDIA Jetson.&lt;/p&gt;
+&lt;p&gt;• Implemented a very robust and precise localization and speed detection algorithm to perceive the environment information for the traffic planning. with a central camera, infrared cameras, and onboard tracking tags.&lt;/p&gt;
+&lt;p&gt;• Built the communication network among the controlling server, the central camera, and 20 mini-robots via ROS&lt;/p&gt;
+&lt;p&gt;• Transferred learning from simulations to this controlled robotic platform to validate the effectiveness of the Deep Reinforcement Learning based control design of Flow framework&lt;/p&gt;
+</description>
     </item>
     
   </channel>
