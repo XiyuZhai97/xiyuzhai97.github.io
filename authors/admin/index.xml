@@ -6,10 +6,32 @@
     <description>Recent content on Xiyu Zhai</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 23:04:17 -0800</lastBuildDate>
     
 	    <atom:link href="https://www.zhaixiyu.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Application of Parallel Computing in Traffic Flow Control</title>
+      <link>https://www.zhaixiyu.com/post/parallelcomputpre/</link>
+      <pubDate>Fri, 31 Jan 2020 23:04:17 -0800</pubDate>
+      
+      <guid>https://www.zhaixiyu.com/post/parallelcomputpre/</guid>
+      <description>&lt;h2 id=&#34;application-traffic-flow-simulation-and-prediction&#34;&gt;Application: Traffic flow simulation and prediction&lt;/h2&gt;
+&lt;h3 id=&#34;the-problem-to-solve&#34;&gt;The problem to solve&lt;/h3&gt;
+&lt;p&gt;As autonomous vehicles become more popular and more sensors are deployed on the road, it is now possible to build a better transportation simulation system containing historic data for traffic flow prediction. And a city-scale transportation network simulation will require a combination of statistical skills and computing techniques that can take advantage of abundant hardware.
+\&lt;/p&gt;
+&lt;p&gt;The major way to predict the traffic flow situation is machine learning. However, complex neural networks model often takes a long time to train. Therefore it will be extremely useful to scale the training process, leading to drastically decrease in training time and increase in accuracy\cite{zhao2019parallel}.
+\&lt;/p&gt;
+&lt;p&gt;Backpropagation neural network (BPNN) is one of the most widely used model due to its excellent function approximation ability. A typical BPNN usually contains three kinds of layers including input layer, hidden layer, and output layer. Input layer is the entrance of the algorithm. It inputs one instance of the data into the network. The dimension of the instance determines the number of inputs in the input layer. Hidden layer contains one or several layers. It outputs intermediate data to the output layer that generates the final output of the neural network. The number of outputs is determined by the encoding of the classified results. In BPNN each layer consists of a number of neurons. The linear functions or nonlinear functions in each neuron are frequently controlled by two kinds of parameters, weight and bias. \&lt;/p&gt;
+&lt;p&gt;In the training phase, BPNN employs feed forward to generate output. And then it calculates the error between the output and the target output. Afterwards, BPNN employs backpropagation to tune weights and biases in neurons based on the calculated error. In the classifying phase, BPNN only executes feed forward to achieve the ultimate classified result. Although it is difficult to determine an optimal number of the hidden layers and neurons for one classification task, it is proved that a three-layer BPNN is enough to fit the mathematical equations which approximate the mapping relationships between the inputs and the outputs. While due to a large number of mathematical calculations existing in the algorithm, low efficiency of BPNN leads to performance deterioration in both training phase and classification phase when the data size is large.
+\&lt;/p&gt;
+&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+&lt;p&gt;Build a efficient parallel computing framework for traffic flow simulation on large-scale networks. For large scale city, we can divide the transportation into several modules based on its location and function. The simulation of all targets(cars, pedestrians, buses, bicycles) inside one module will be processed individually. And &amp;ldquo;various types of simulation events are mapped to independent logical processes that can concurrently execute their procedures while maintaining good load balance&amp;rdquo;\cite{qu2017large}. The connection between each module will be managed by time sequence and location information.
+\&lt;/p&gt;
+&lt;p&gt;Build a efficient parallel computing method to accelerate training the deep neural network that predicts the future traffic flow for real-time control. We may build a multi-process training framework for Pytorch or Tensorflow Neural Networks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>

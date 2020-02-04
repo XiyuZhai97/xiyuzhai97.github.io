@@ -73,6 +73,36 @@
   </url>
   
   <url>
+    <loc>https://www.zhaixiyu.com/authors/admin/</loc>
+    <lastmod>2020-01-31T23:04:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/post/parallelcomputpre/</loc>
+    <lastmod>2020-01-31T23:04:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/authors/</loc>
+    <lastmod>2020-01-31T23:04:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/parallel/</loc>
+    <lastmod>2020-01-31T23:04:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/post/</loc>
+    <lastmod>2020-01-31T23:04:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/</loc>
+    <lastmod>2020-01-31T23:04:17-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.zhaixiyu.com/tags/demo/</loc>
     <lastmod>2019-12-25T17:39:00+00:00</lastmod>
   </url>
@@ -84,11 +114,6 @@
   
   <url>
     <loc>https://www.zhaixiyu.com/project/</loc>
-    <lastmod>2019-12-25T17:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/tags/</loc>
     <lastmod>2019-12-25T17:39:00+00:00</lastmod>
   </url>
   
@@ -133,22 +158,12 @@
   </url>
   
   <url>
-    <loc>https://www.zhaixiyu.com/authors/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.zhaixiyu.com/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.zhaixiyu.com/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -169,11 +184,6 @@
   
   <url>
     <loc>https://www.zhaixiyu.com/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/post/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
