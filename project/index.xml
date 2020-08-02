@@ -6,58 +6,66 @@
     <description>Recent content in Projects on Xiyu Zhai</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Dec 2019 17:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.zhaixiyu.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Janaux</title>
-      <link>https://www.zhaixiyu.com/project/janux-simulation-of-autonomous-city/</link>
-      <pubDate>Wed, 25 Dec 2019 17:39:00 +0000</pubDate>
+      <title>AR Semantic Scene Generation</title>
+      <link>https://www.zhaixiyu.com/project/ar-semantic-scene-generation/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.zhaixiyu.com/project/janux-simulation-of-autonomous-city/</guid>
-      <description>&lt;p&gt;• Develop a framework to design and simulate a transportation system or a city with only autonomous vehicles&lt;/p&gt;
-&lt;p&gt;• Developed a database system to collect and manage cities’ transportation network data from Open Street Map&lt;/p&gt;
-&lt;p&gt;• Designed the control methods inside transportation models to compare the efficiency of traffic in autonomous city and regular city&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Control method for power converter</title>
-      <link>https://www.zhaixiyu.com/project/control-method-for-power-converter/</link>
-      <pubDate>Wed, 25 Dec 2019 17:34:00 +0000</pubDate>
-      
-      <guid>https://www.zhaixiyu.com/project/control-method-for-power-converter/</guid>
-      <description>&lt;p&gt;• Built mathematical models and performance evaluation indicators for power converters.&lt;/p&gt;
-&lt;p&gt;• Implemented several control strategies with zero steady-state error that output 100-order harmonics in C++&lt;/p&gt;
-&lt;p&gt;based on multi-time synchronous rotating frame and PR control.
-• Developed a power converter controlling a Reinforcement Learning framework that robust enough to generate over 200-order harmonics.&lt;/p&gt;
+      <guid>https://www.zhaixiyu.com/project/ar-semantic-scene-generation/</guid>
+      <description>&lt;p&gt;Developers of AR apps often place virtual objects arbitrarily in front of the user with no consideration of their surroundings. However, resulting illogical placements make the AR feel less realistic. We seek a more nuanced method of virtual object placement that takes objects in the user’s environment into account.&lt;/p&gt;
+&lt;p&gt;We developed an interface to generate heatmaps indicating likely placements for new objects of different types (eg. bed, chair, table, etc.). This interface can be run from Unity or as an AR application on IOS.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robotics Platform for Traffic Simulation</title>
       <link>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</link>
-      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</guid>
-      <description>&lt;p&gt;• Design and build a reliable open-source physical robotic platform for multi-agent learning and control research at an acceptable cost.&lt;/p&gt;
-&lt;p&gt;• Designed and built (with 3D printer) two kinds of mini-robots based on Arduino-like MCU, and NVIDIA Jetson.&lt;/p&gt;
-&lt;p&gt;• Implemented a very robust and precise localization and speed detection algorithm to perceive the environment information for the traffic planning. with a central camera, infrared cameras, and onboard tracking tags.&lt;/p&gt;
-&lt;p&gt;• Built the communication network among the controlling server, the central camera, and 20 mini-robots via ROS&lt;/p&gt;
-&lt;p&gt;• Transferred learning from simulations to this controlled robotic platform to validate the effectiveness of the Deep Reinforcement Learning based control design of Flow framework&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Design and build a reliable open-source physical robotic platform for multi-agent learning and control research at an acceptable cost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Designed and built (with 3D printer) two kinds of mini-robots based on Arduino-like MCU, and NVIDIA Jetson.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented a very robust and precise localization and speed detection algorithm to perceive the environment information for the traffic planning. with a central camera, infrared cameras, and onboard tracking tags.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Built the communication network among the controlling server, the central camera, and 20 mini-robots via ROS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transferred learning from simulations to this controlled robotic platform to validate the effectiveness of the Deep Reinforcement Learning based control design of Flow framework&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>AR Semantic Scene Generation</title>
-      <link>https://www.zhaixiyu.com/project/ar-semantic-scene-generation/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <title>High Frequency Power Transformer Control</title>
+      <link>https://www.zhaixiyu.com/project/control-method-for-power-converter/</link>
+      <pubDate>Wed, 25 Dec 2019 17:34:00 +0000</pubDate>
       
-      <guid>https://www.zhaixiyu.com/project/ar-semantic-scene-generation/</guid>
-      <description>&lt;p&gt;Developers of AR apps often place virtual objects arbitrarily in front of the user with no consideration of their surroundings. However, resulting illogical placements make the AR feel less realistic. We seek a more nuanced method of virtual object placement that takes objects in the user’s environment into account.&lt;/p&gt;
-&lt;p&gt;We developed an interface to generate heatmaps indicating likely placements for new objects of different types (eg. bed, chair, table, etc.). This interface can be run from Unity or as an AR application.&lt;/p&gt;
+      <guid>https://www.zhaixiyu.com/project/control-method-for-power-converter/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Built mathematical models and performance evaluation indicators for power converters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented several control strategies with zero steady-state error that output 100-order harmonics in C++
+based on multi-time synchronous rotating frame and PR control.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a power converter controlling a Reinforcement Learning framework that robust enough to generate over 200-order harmonics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -67,9 +75,17 @@
       <pubDate>Mon, 07 Jan 2019 15:10:00 +0000</pubDate>
       
       <guid>https://www.zhaixiyu.com/project/robot-hand-design/</guid>
-      <description>&lt;p&gt;• Designed and built a robotic hand with 16 degrees of freedom using 3d printer.&lt;/p&gt;
-&lt;p&gt;• Implemented the real-time control of the robotic hand to imitating gestures using Node.js with a Leap Motion&lt;/p&gt;
-&lt;p&gt;• Built a deep learning model with TensorFlow that can recognize the key points of hands from images taken by a regular camera within 25 milliseconds (improve from 110ms).&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designed and built a robotic hand with 16 degrees of freedom using 3d printer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented the real-time control of the robotic hand to imitating gestures using Node.js with a Leap Motion&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Built a deep learning model with TensorFlow that can recognize the key points of hands from images taken by a regular camera within 25 milliseconds (improve from 110ms).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

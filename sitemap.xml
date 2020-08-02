@@ -74,7 +74,92 @@
   
   <url>
     <loc>https://www.zhaixiyu.com/authors/admin/</loc>
-    <lastmod>2020-01-31T23:04:17-08:00</lastmod>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/authors/</loc>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/categories/</loc>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/cheatsheet/</loc>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/post/</loc>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/categories/reference/</loc>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/</loc>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/post/cheatsheet-tmux/</loc>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/tools/</loc>
+    <lastmod>2020-08-01T22:13:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/project/ar-semantic-scene-generation/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/arvr/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/graphics/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/machine-learning/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/project/</loc>
+    <lastmod>2020-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/control/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/reinforcement-learning/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/robotics/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,7 +168,7 @@
   </url>
   
   <url>
-    <loc>https://www.zhaixiyu.com/authors/</loc>
+    <loc>https://www.zhaixiyu.com/tags/courses/</loc>
     <lastmod>2020-01-31T23:04:17-08:00</lastmod>
   </url>
   
@@ -93,68 +178,13 @@
   </url>
   
   <url>
-    <loc>https://www.zhaixiyu.com/post/</loc>
+    <loc>https://www.zhaixiyu.com/categories/thoughts/</loc>
     <lastmod>2020-01-31T23:04:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/tags/</loc>
-    <lastmod>2020-01-31T23:04:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/tags/demo/</loc>
-    <lastmod>2019-12-25T17:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/project/janux-simulation-of-autonomous-city/</loc>
-    <lastmod>2019-12-25T17:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/project/</loc>
-    <lastmod>2019-12-25T17:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/tags/transportation/</loc>
-    <lastmod>2019-12-25T17:39:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/tags/control/</loc>
-    <lastmod>2019-12-25T17:34:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.zhaixiyu.com/project/control-method-for-power-converter/</loc>
     <lastmod>2019-12-25T17:34:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/tags/deep-learning/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/tags/robotics/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/project/ar-semantic-scene-generation/</loc>
-    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/tags/arvr/</loc>
-    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -183,11 +213,6 @@
   </url>
   
   <url>
-    <loc>https://www.zhaixiyu.com/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.zhaixiyu.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -195,6 +220,11 @@
   <url>
     <loc>https://www.zhaixiyu.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/tags/computer-vision/</loc>
+    <lastmod>2019-01-07T15:10:00+00:00</lastmod>
   </url>
   
   <url>
@@ -225,10 +255,6 @@
   <url>
     <loc>https://www.zhaixiyu.com/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/categories/</loc>
   </url>
   
   <url>

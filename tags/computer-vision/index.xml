@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Xiyu Zhai</title>
+    <link>https://www.zhaixiyu.com/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Xiyu Zhai</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jan 2019 15:10:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.zhaixiyu.com/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robotics Hand Design</title>
+      <link>https://www.zhaixiyu.com/project/robot-hand-design/</link>
+      <pubDate>Mon, 07 Jan 2019 15:10:00 +0000</pubDate>
+      
+      <guid>https://www.zhaixiyu.com/project/robot-hand-design/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designed and built a robotic hand with 16 degrees of freedom using 3d printer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented the real-time control of the robotic hand to imitating gestures using Node.js with a Leap Motion&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Built a deep learning model with TensorFlow that can recognize the key points of hands from images taken by a regular camera within 25 milliseconds (improve from 110ms).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

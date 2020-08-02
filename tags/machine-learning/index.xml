@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Xiyu Zhai</title>
+    <link>https://www.zhaixiyu.com/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Xiyu Zhai</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://www.zhaixiyu.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AR Semantic Scene Generation</title>
+      <link>https://www.zhaixiyu.com/project/ar-semantic-scene-generation/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhaixiyu.com/project/ar-semantic-scene-generation/</guid>
+      <description>&lt;p&gt;Developers of AR apps often place virtual objects arbitrarily in front of the user with no consideration of their surroundings. However, resulting illogical placements make the AR feel less realistic. We seek a more nuanced method of virtual object placement that takes objects in the user’s environment into account.&lt;/p&gt;
+&lt;p&gt;We developed an interface to generate heatmaps indicating likely placements for new objects of different types (eg. bed, chair, table, etc.). This interface can be run from Unity or as an AR application on IOS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robotics Platform for Traffic Simulation</title>
+      <link>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Design and build a reliable open-source physical robotic platform for multi-agent learning and control research at an acceptable cost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Designed and built (with 3D printer) two kinds of mini-robots based on Arduino-like MCU, and NVIDIA Jetson.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented a very robust and precise localization and speed detection algorithm to perceive the environment information for the traffic planning. with a central camera, infrared cameras, and onboard tracking tags.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Built the communication network among the controlling server, the central camera, and 20 mini-robots via ROS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transferred learning from simulations to this controlled robotic platform to validate the effectiveness of the Deep Reinforcement Learning based control design of Flow framework&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High Frequency Power Transformer Control</title>
+      <link>https://www.zhaixiyu.com/project/control-method-for-power-converter/</link>
+      <pubDate>Wed, 25 Dec 2019 17:34:00 +0000</pubDate>
+      
+      <guid>https://www.zhaixiyu.com/project/control-method-for-power-converter/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Built mathematical models and performance evaluation indicators for power converters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented several control strategies with zero steady-state error that output 100-order harmonics in C++
+based on multi-time synchronous rotating frame and PR control.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Developed a power converter controlling a Reinforcement Learning framework that robust enough to generate over 200-order harmonics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

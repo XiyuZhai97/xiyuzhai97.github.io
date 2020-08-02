@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tools on Xiyu Zhai</title>
+    <link>https://www.zhaixiyu.com/tags/tools/</link>
+    <description>Recent content in tools on Xiyu Zhai</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 22:13:49 -0700</lastBuildDate>
+    
+	    <atom:link href="https://www.zhaixiyu.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tmux Cheatsheet</title>
+      <link>https://www.zhaixiyu.com/post/cheatsheet-tmux/</link>
+      <pubDate>Sat, 01 Aug 2020 22:13:49 -0700</pubDate>
+      
+      <guid>https://www.zhaixiyu.com/post/cheatsheet-tmux/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ctrl+a&lt;/strong&gt; &lt;strong&gt;Ctrl+a&lt;/strong&gt; : Go to head of the command line&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;w&lt;/strong&gt; : Move cursor forward one word at a time&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;b&lt;/strong&gt; : Move cursor backward one word at a time&lt;/p&gt;
+&lt;h2 id=&#34;session&#34;&gt;Session&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a :new -s mysession&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a d&lt;/strong&gt; : Detach from session (exit tmux)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a s&lt;/strong&gt; : Show all sessions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a $&lt;/strong&gt; : Rename session&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a :kill-session -t XXX&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a (&lt;/strong&gt; : Move to previous session&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a )&lt;/strong&gt; : Move to next session&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a w&lt;/strong&gt; : Show all sessions and windows&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;window-quick-switch&#34;&gt;Window (quick switch)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a c&lt;/strong&gt; : Create window&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a ,&lt;/strong&gt; : Rename current windows&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a &amp;amp;&lt;/strong&gt; : Close current window&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a n&lt;/strong&gt; : Next window&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a 0…9&lt;/strong&gt; : Show all sessions&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a $&lt;/strong&gt; : Switch/select window by number&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a :swap-window -s 2 -t 1&lt;/strong&gt; Reorder window, swap window number 2(src) and 1(dst)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a :swap-window -t -1&lt;/strong&gt; Move current window to the left by one position&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;panes&#34;&gt;Panes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a %&lt;/strong&gt; : Split pane vertically&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a &amp;ldquo;&lt;/strong&gt; : Split pane horizontally&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a [arrow key]&lt;/strong&gt; : Switch to pane to the direction&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a ;&lt;/strong&gt; : Toggle last active pane&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a o&lt;/strong&gt; : Switch to next pane&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a {&lt;/strong&gt; : Move the current pane left&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a }&lt;/strong&gt; : Move the current pane right&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a x&lt;/strong&gt; : Close current pane&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a !&lt;/strong&gt; : Convert pane into a window&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a z&lt;/strong&gt; : Toggle pane zoom&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a+[arrow key&lt;/strong&gt;] : Resize current pane size&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a q&lt;/strong&gt; : Show pane numbers&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+a q 0…9&lt;/strong&gt; : Switch/select pane by number&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

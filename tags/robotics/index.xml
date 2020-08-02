@@ -6,7 +6,7 @@
     <description>Recent content in Robotics on Xiyu Zhai</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.zhaixiyu.com/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,14 +14,26 @@
     <item>
       <title>Robotics Platform for Traffic Simulation</title>
       <link>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</link>
-      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.zhaixiyu.com/project/robotics-platform-for-traffic-simulation/</guid>
-      <description>&lt;p&gt;• Design and build a reliable open-source physical robotic platform for multi-agent learning and control research at an acceptable cost.&lt;/p&gt;
-&lt;p&gt;• Designed and built (with 3D printer) two kinds of mini-robots based on Arduino-like MCU, and NVIDIA Jetson.&lt;/p&gt;
-&lt;p&gt;• Implemented a very robust and precise localization and speed detection algorithm to perceive the environment information for the traffic planning. with a central camera, infrared cameras, and onboard tracking tags.&lt;/p&gt;
-&lt;p&gt;• Built the communication network among the controlling server, the central camera, and 20 mini-robots via ROS&lt;/p&gt;
-&lt;p&gt;• Transferred learning from simulations to this controlled robotic platform to validate the effectiveness of the Deep Reinforcement Learning based control design of Flow framework&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Design and build a reliable open-source physical robotic platform for multi-agent learning and control research at an acceptable cost.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Designed and built (with 3D printer) two kinds of mini-robots based on Arduino-like MCU, and NVIDIA Jetson.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented a very robust and precise localization and speed detection algorithm to perceive the environment information for the traffic planning. with a central camera, infrared cameras, and onboard tracking tags.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Built the communication network among the controlling server, the central camera, and 20 mini-robots via ROS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transferred learning from simulations to this controlled robotic platform to validate the effectiveness of the Deep Reinforcement Learning based control design of Flow framework&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -31,9 +43,17 @@
       <pubDate>Mon, 07 Jan 2019 15:10:00 +0000</pubDate>
       
       <guid>https://www.zhaixiyu.com/project/robot-hand-design/</guid>
-      <description>&lt;p&gt;• Designed and built a robotic hand with 16 degrees of freedom using 3d printer.&lt;/p&gt;
-&lt;p&gt;• Implemented the real-time control of the robotic hand to imitating gestures using Node.js with a Leap Motion&lt;/p&gt;
-&lt;p&gt;• Built a deep learning model with TensorFlow that can recognize the key points of hands from images taken by a regular camera within 25 milliseconds (improve from 110ms).&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Designed and built a robotic hand with 16 degrees of freedom using 3d printer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implemented the real-time control of the robotic hand to imitating gestures using Node.js with a Leap Motion&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Built a deep learning model with TensorFlow that can recognize the key points of hands from images taken by a regular camera within 25 milliseconds (improve from 110ms).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
