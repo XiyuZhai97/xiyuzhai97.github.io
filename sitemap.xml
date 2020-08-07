@@ -3,37 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.zhaixiyu.com/talk/coding/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/talk/qualitative/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/talk/synthesizing/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhaixiyu.com/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.zhaixiyu.com/post/</loc>
     <lastmod>2020-08-06T22:38:48-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.zhaixiyu.com/post/ridiculoususagov/</loc>
+    <lastmod>2020-08-06T22:38:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/</loc>
     <lastmod>2020-08-06T22:38:48-07:00</lastmod>
   </url>
   
@@ -215,6 +195,10 @@
   <url>
     <loc>https://www.zhaixiyu.com/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhaixiyu.com/talk/</loc>
   </url>
   
 </urlset>

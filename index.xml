@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiyu Zhai</title>
+    <title>XYZ</title>
     <link>https://www.zhaixiyu.com/</link>
-    <description>Recent content on Xiyu Zhai</description>
+    <description>Recent content on XYZ</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 22:38:48 -0700</lastBuildDate>
     
 	    <atom:link href="https://www.zhaixiyu.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://www.zhaixiyu.com/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>https://www.zhaixiyu.com/talk/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Posts</title>
@@ -53,6 +44,15 @@
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.zhaixiyu.com/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://www.zhaixiyu.com/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhaixiyu.com/talk/</guid>
       <description></description>
     </item>
     
